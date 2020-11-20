@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-storyboard/static/css/main.6e267e25.chunk.css",
+    "main.js": "/react-storyboard/static/js/main.33c97655.chunk.js",
+    "main.js.map": "/react-storyboard/static/js/main.33c97655.chunk.js.map",
+    "runtime-main.js": "/react-storyboard/static/js/runtime-main.6e1c3306.js",
+    "runtime-main.js.map": "/react-storyboard/static/js/runtime-main.6e1c3306.js.map",
+    "static/js/2.69d7cb01.chunk.js": "/react-storyboard/static/js/2.69d7cb01.chunk.js",
+    "static/js/2.69d7cb01.chunk.js.map": "/react-storyboard/static/js/2.69d7cb01.chunk.js.map",
+    "static/js/3.c3a0ef77.chunk.js": "/react-storyboard/static/js/3.c3a0ef77.chunk.js",
+    "static/js/3.c3a0ef77.chunk.js.map": "/react-storyboard/static/js/3.c3a0ef77.chunk.js.map",
+    "index.html": "/react-storyboard/index.html",
+    "static/css/main.6e267e25.chunk.css.map": "/react-storyboard/static/css/main.6e267e25.chunk.css.map",
+    "static/js/2.69d7cb01.chunk.js.LICENSE.txt": "/react-storyboard/static/js/2.69d7cb01.chunk.js.LICENSE.txt",
+    "static/media/Passage.css": "/react-storyboard/static/media/delete.86bb3836.svg",
+    "static/media/Passage_Core.css": "/react-storyboard/static/media/fullscreen.016a6e74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e1c3306.js",
+    "static/js/2.69d7cb01.chunk.js",
+    "static/css/main.6e267e25.chunk.css",
+    "static/js/main.33c97655.chunk.js"
+  ]
+}
